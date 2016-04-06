@@ -1,0 +1,41 @@
+{
+    "appKeys": {
+        "CARSON": 6,
+        "CLINTON": 0,
+        "CRUZ": 3,
+        "KASICH": 5,
+        "RUBIO": 4,
+        "SANDERS": 1,
+        "TRUMP": 2
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "NickApps",
+    "enableMultiJS": true,
+    "longName": "Delegate Tracker ",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/delegateTracker.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Delegate Tracker ",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "19aa525f-1335-4856-bbef-d37dcc81065f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
